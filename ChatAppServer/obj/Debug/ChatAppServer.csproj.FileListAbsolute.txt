@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\bin\Debug\ChatAppServer.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ChatAppServer\ChatAppServer\obj\Debug\ChatAppServer.pdb
